@@ -1,0 +1,16 @@
+{
+  "name" : "deoplete-openscad",
+  "author" : "Michael Sasser <Michael@MichaelSasser.org>",
+  "repository" : {"type": "git", "url": "git://github.com/MichaelSasser/deoplete-openscad.git"},
+  "dependencies" : {
+    "snipmate": {
+      "type": "git",
+      "url": "https://github.com/SirVer/ultisnips"
+    },
+    "deoplete": {
+      "type": "git",
+      "url": "https://github.com/Shougo/deoplete.nvim"
+    }
+  },
+  "description" : "NeoVim syntax highlighting, autocompletion and snippets for OpenSCAD"
+}
